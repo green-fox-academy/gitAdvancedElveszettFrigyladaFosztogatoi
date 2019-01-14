@@ -1,3 +1,3 @@
-count((age) => {
-  alert(age)
+count(() => {
+  alert('4')
 });

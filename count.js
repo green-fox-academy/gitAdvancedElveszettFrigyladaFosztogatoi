@@ -2,4 +2,4 @@ count(() => {
   alert('4')
 });
 
-console.log('yolo')
+console.log('YOLO')

@@ -1,4 +1,4 @@
-let teamname = 'javascript'
+let teamname = 'JavaScript'
 console.log(teamname);
 
-'SOROSAN KAPCSOLT SIK KONDENZÁTOR'
+'SOROSAN KAPCSOLT GYÖRGY'

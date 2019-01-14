@@ -1,0 +1,2 @@
+# gitAdvancedElveszettFrigyladaFosztogatoi
+Team repo

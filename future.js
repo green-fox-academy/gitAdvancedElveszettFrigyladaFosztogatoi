@@ -6,9 +6,10 @@ alert("cancer");
 //modify your method to have one parameter and print that out
 
 let a = "Parameter";
-alert(a);
+let b = "Parameter2";
+alert(`${a}, ${b}`);
 
-
+// modify your method to have two parameters and print out both
 
 
 console.log('chinese horoscope');

@@ -1,3 +1,1 @@
-greet((name)=>{
-  alert(name)
-});
+alert("Greetings");

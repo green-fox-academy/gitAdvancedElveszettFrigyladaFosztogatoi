@@ -1,2 +1,2 @@
-let teamname = 'Elveszett frigyláda fosztogatói;'
+let teamname = 'javascript'
 console.log(teamname);

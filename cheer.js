@@ -1,2 +1,2 @@
-let teamname = 'javascript'
+let teamname = 'JavaScript'
 console.log(teamname);

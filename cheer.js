@@ -1,1 +1,2 @@
-alert("Elveszett frigyláda fosztogatói");
+let teamname = 'Elveszett frigyláda fosztogatói;'
+console.log(teamname);

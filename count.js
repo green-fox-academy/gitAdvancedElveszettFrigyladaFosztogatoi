@@ -8,3 +8,4 @@ console.log('YOLO')
 "holel anyó"
 ======= 
 
+'kontár'

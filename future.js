@@ -7,3 +7,9 @@ alert("cancer");
 
 let a = "Parameter";
 alert(a);
+
+
+
+
+console.log('chinese horoscope');
+

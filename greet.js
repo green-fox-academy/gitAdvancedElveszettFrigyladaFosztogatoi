@@ -7,4 +7,5 @@ greet((name,age) => {
 
 greet('Balazs', 25);
 
-'kontár'
+'kontár vagy'
+

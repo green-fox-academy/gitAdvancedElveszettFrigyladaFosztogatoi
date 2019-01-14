@@ -6,6 +6,5 @@ console.log('YOLO')
 'gitouttahere'
 
 "holel anyó"
-======= 
 
 'kontár'

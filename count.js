@@ -3,8 +3,6 @@ count(() => {
 });
 
 console.log('YOLO')
-'gitouttahere'
+'gitouttahere';
 
-"holel anyó"
-======= 
-
+'kontár'

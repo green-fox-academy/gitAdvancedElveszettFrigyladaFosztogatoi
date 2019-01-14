@@ -3,3 +3,5 @@ future((this) => {
 });
 
 future('an octopus');
+
+'kontár'

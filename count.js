@@ -1,10 +1,8 @@
 count(() => {
-  alert('4')
+  alert('4 + 6')
 });
 
 console.log('YOLO')
 'gitouttahere'
-console.log('yolo')
-'lóhere'
 
     

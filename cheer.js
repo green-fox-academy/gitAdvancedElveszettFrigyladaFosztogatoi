@@ -1,0 +1,1 @@
+alert("Elveszett frigyláda fosztogatói");

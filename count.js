@@ -3,7 +3,5 @@ count(() => {
 });
 
 
-console.log('random text')
-=======
 console.log('yolo')
 

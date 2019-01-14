@@ -1,3 +1,3 @@
-function greet(){
-  alert('Balazs Hegedus')
-}
+greet((name)=>{
+  alert(name)
+});

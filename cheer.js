@@ -1,4 +1,4 @@
 let teamname = 'JavaScript'
 console.log(teamname);
 
-'SOROSAN KAPCSOLT GYÖRGY'
+console.log('Ez egy szar')

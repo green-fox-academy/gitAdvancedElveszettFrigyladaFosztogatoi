@@ -7,5 +7,3 @@ console.log('YOLO')
 console.log('yolo')
 'lóhere'
 
-console.log('yolo')
-

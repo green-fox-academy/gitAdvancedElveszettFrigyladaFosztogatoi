@@ -7,3 +7,5 @@ greet((name,age) => {
 
 greet('Balazs', 25);
 
+'na most mi lesz '
+
